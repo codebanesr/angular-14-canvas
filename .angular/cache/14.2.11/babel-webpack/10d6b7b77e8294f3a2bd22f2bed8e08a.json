@@ -1,0 +1,1 @@
+{"ast":null,"code":"// tslint:disable-next-line:typedef\nexport function CanvasComponent(target) {\n  target.isCanvasComponent = true;\n}","map":null,"metadata":{},"sourceType":"module"}
