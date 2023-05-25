@@ -131,7 +131,7 @@
       "prefix": "lib",
       "architect": {
         "build": {
-          "builder": "@angular-devkit/build-ng-packagr:build",
+          "builder": "@angular-devkit/build-angular:ng-packagr",
           "options": {
             "tsConfig": "projects/angular-canvas-lib/tsconfig.lib.json",
             "project": "projects/angular-canvas-lib/ng-package.json"
@@ -164,6 +164,5 @@
         }
       }
     }
-  },
-  "defaultProject": "angular-canvas"
+  }
 }

@@ -14,12 +14,6 @@
       "path": "./tsconfig.spec.json"
     },
     {
-      "path": "./projects/lib/tsconfig.lib.json"
-    },
-    {
-      "path": "./projects/lib/tsconfig.spec.json"
-    },
-    {
       "path": "./projects/angular-canvas-lib/tsconfig.lib.json"
     },
     {
